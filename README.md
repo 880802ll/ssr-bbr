@@ -89,7 +89,7 @@ yum install -y curl wget 2> /dev/null || apt install -y curl wget
 
 **[海外IP测试地址](https://www.yougetsignal.com/tools/open-ports/)**
 
-**一件脚本**
+**一键脚本**
 
 ```
 wget -O jcnfbox.sh https://raw.githubusercontent.com/Netflixxp/jcnf-box/main/jcnfbox.sh && chmod +x jcnfbox.sh && clear && ./jcnfbox.sh
